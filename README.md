@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, I am Kent Gabrielle
 
-<!--
-**KentGab27/KentGab27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- About Me ---->
+🏫 Studied Computer Science at [Mapua Malayan Colleges Mindanap](https://mcm.edu.ph/) Philippines.<br/>
+💻 Currently learning more about Python, C#, JS, HTML and CSS.<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--- Github Stats ---->
+![KentGab27's GitHub stats](https://github-readme-stats.vercel.app/api?username=KentGab27&hide=stars,prs,issues&show_icons=true&theme=tokyonight) <br/>
+
+<!--- Programming Languages/Frameworks ---->
+## 💻 Programming Languages/Frameworks: <br/>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
