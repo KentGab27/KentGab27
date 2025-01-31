@@ -1,7 +1,7 @@
 ## Hello, I am Kent Gabrielle
 
 <!--- About Me ---->
-🏫 Studied Computer Science at [Mapua Malayan Colleges Mindanao](https://mcm.edu.ph/) Philippines.<br/>
+🏫 Studying Computer Science at [Mapua Malayan Colleges Mindanao](https://mcm.edu.ph/) Philippines.<br/>
 💻 Currently learning more about Python, C#, JS, HTML and CSS.<br/>
 
 
