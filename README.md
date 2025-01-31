@@ -1,12 +1,12 @@
 ## Hello, I am Kent Gabrielle
 
 <!--- About Me ---->
-🏫 Studied Computer Science at [Mapua Malayan Colleges Mindanap](https://mcm.edu.ph/) Philippines.<br/>
+🏫 Studied Computer Science at [Mapua Malayan Colleges Mindanao](https://mcm.edu.ph/) Philippines.<br/>
 💻 Currently learning more about Python, C#, JS, HTML and CSS.<br/>
 
 
 <!--- Github Stats ---->
-![KentGab27's GitHub stats](https://github-readme-stats.vercel.app/api?username=KentGab27&hide=stars,prs,issues&show_icons=true&theme=tokyonight) <br/>
+![KentGab27's GitHub stats](https://github-readme-stats.vercel.app/api?username=KentGab27&hide=prs,issues&show_icons=true&theme=tokyonight) <br/>
 
 <!--- Programming Languages/Frameworks ---->
 ## 💻 Programming Languages/Frameworks: <br/>
